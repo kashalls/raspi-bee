@@ -1,0 +1,9 @@
+{
+  "name": "raspi-bee",
+  "packageManager": "yarn@3.5.0",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "rpi-gpio": "^2.1.7"
+  }
+}
