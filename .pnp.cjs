@@ -28,7 +28,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["dotenv", "npm:16.1.3"],\
+            ["dotenv", "npm:16.1.4"],\
             ["rpi-gpio", "npm:2.1.7"]\
           ],\
           "linkType": "SOFT"\
@@ -328,10 +328,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["dotenv", [\
-        ["npm:16.1.3", {\
-          "packageLocation": "./.yarn/cache/dotenv-npm-16.1.3-4df6c2511f-8f73bae720.zip/node_modules/dotenv/",\
+        ["npm:16.1.4", {\
+          "packageLocation": "./.yarn/cache/dotenv-npm-16.1.4-c4499a21eb-c1b2e13df4.zip/node_modules/dotenv/",\
           "packageDependencies": [\
-            ["dotenv", "npm:16.1.3"]\
+            ["dotenv", "npm:16.1.4"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -904,7 +904,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["raspi-bee", "workspace:."],\
-            ["dotenv", "npm:16.1.3"],\
+            ["dotenv", "npm:16.1.4"],\
             ["rpi-gpio", "npm:2.1.7"]\
           ],\
           "linkType": "SOFT"\
