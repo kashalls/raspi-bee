@@ -1,6 +1,6 @@
 {
   "name": "raspi-bee",
-  "packageManager": "yarn@3.6.1",
+  "packageManager": "yarn@4.0.2",
   "type": "module",
   "dependencies": {
     "dotenv": "^16.0.3",
