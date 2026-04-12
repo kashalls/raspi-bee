@@ -242,10 +242,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dotenv@npm:^16.0.3":
-  version: 16.3.0
-  resolution: "dotenv@npm:16.3.0"
-  checksum: 43a90ec87868c8b962a028b69cbe86e71621c76837249a9d65fb131b03ee69817b019d34a5456174cb04095052a496b4e1b5da72e4af2393df6083513ab62d4b
+"dotenv@npm:^17.0.0":
+  version: 17.4.2
+  resolution: "dotenv@npm:17.4.2"
+  checksum: 217bf2c4696ca40acc13ad063341e9c77cedfdd75e56e4919f4cf2c6333e4f7b38a4b4067e49d006125502a61060cbe85c7eecb0644e4d99ff014693eb7e62c4
   languageName: node
   linkType: hard
 
@@ -745,7 +745,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "raspi-bee@workspace:."
   dependencies:
-    dotenv: ^16.0.3
+    dotenv: ^17.0.0
     rpi-gpio: ^2.1.7
   languageName: unknown
   linkType: soft
